@@ -88,6 +88,7 @@ li {
     }
 
     .garis {
+        top: 1.5rem;
         right: 21rem;
     }
 }
