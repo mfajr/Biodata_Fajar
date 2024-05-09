@@ -75,16 +75,19 @@ li {
 }
 
 /* Responsive */
-@media (max-width: 450px) {
+@media (max-width: 390px) {
     html {
         font-size: 45%;
     }
 
-    table {
-        width: 50%;
+    .kedua .kanan {
+        padding: 0.8rem 10px 10px 55px;
+    }
+    .kedua .kiri {
+        padding: 0.8rem 10px 10px 10px;
     }
 
     .garis {
-        right: 23rem;
+        right: 21rem;
     }
 }
