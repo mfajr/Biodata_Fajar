@@ -80,6 +80,14 @@ li {
         font-size: 45%;
     }
 
+    body {
+        height: 600px;
+    }
+
+    .wrapper {
+        height: 600px;
+    }
+
     .kedua .kanan {
         padding: 0.8rem 10px 10px 55px;
     }
