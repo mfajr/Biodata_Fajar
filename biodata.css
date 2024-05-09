@@ -79,4 +79,12 @@ li {
     html {
         font-size: 45%;
     }
+
+    table {
+        width: 50%;
+    }
+
+    .garis {
+        right: 23rem;
+    }
 }
